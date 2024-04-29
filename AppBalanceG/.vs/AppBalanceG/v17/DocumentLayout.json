@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mi Carp\\AppBalanceG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|d:\\mi carp\\appbalanceg\\vista\\frmcuentast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|solutionrelative:vista\\frmcuentast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|d:\\mi carp\\appbalanceg\\modelo\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|solutionrelative:modelo\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|d:\\mi carp\\appbalanceg\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|solutionrelative:vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|d:\\mi carp\\appbalanceg\\controlador\\entradasclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|solutionrelative:controlador\\entradasclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|d:\\mi carp\\appbalanceg\\controlador\\opcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|solutionrelative:controlador\\opcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|d:\\mi carp\\appbalanceg\\modelo\\dto\\cuentasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|solutionrelative:modelo\\dto\\cuentasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|d:\\mi carp\\appbalanceg\\vista\\frmbalanceg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BCAAB0A-2E94-4250-BD5E-AA564144D08F}|AppBalanceG.csproj|solutionrelative:vista\\frmbalanceg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 183,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCuentasT.cs",
+              "DocumentMoniker": "D:\\Mi Carp\\AppBalanceG\\Vista\\frmCuentasT.cs",
+              "RelativeDocumentMoniker": "Vista\\frmCuentasT.cs",
+              "ToolTip": "D:\\Mi Carp\\AppBalanceG\\Vista\\frmCuentasT.cs",
+              "RelativeToolTip": "Vista\\frmCuentasT.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:21:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuentas.cs",
+              "DocumentMoniker": "D:\\Mi Carp\\AppBalanceG\\Modelo\\Cuentas.cs",
+              "RelativeDocumentMoniker": "Modelo\\Cuentas.cs",
+              "ToolTip": "D:\\Mi Carp\\AppBalanceG\\Modelo\\Cuentas.cs",
+              "RelativeToolTip": "Modelo\\Cuentas.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:20:42.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "D:\\Mi Carp\\AppBalanceG\\Vista\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Vista\\frmPrincipal.cs",
+              "ToolTip": "D:\\Mi Carp\\AppBalanceG\\Vista\\frmPrincipal.cs",
+              "RelativeToolTip": "Vista\\frmPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:20:11.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntradasClase.cs",
+              "DocumentMoniker": "D:\\Mi Carp\\AppBalanceG\\Controlador\\EntradasClase.cs",
+              "RelativeDocumentMoniker": "Controlador\\EntradasClase.cs",
+              "ToolTip": "D:\\Mi Carp\\AppBalanceG\\Controlador\\EntradasClase.cs",
+              "RelativeToolTip": "Controlador\\EntradasClase.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:19:49.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpCuentas.cs",
+              "DocumentMoniker": "D:\\Mi Carp\\AppBalanceG\\Controlador\\OpCuentas.cs",
+              "RelativeDocumentMoniker": "Controlador\\OpCuentas.cs",
+              "ToolTip": "D:\\Mi Carp\\AppBalanceG\\Controlador\\OpCuentas.cs",
+              "RelativeToolTip": "Controlador\\OpCuentas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:19:34.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentasDto.cs",
+              "DocumentMoniker": "D:\\Mi Carp\\AppBalanceG\\Modelo\\Dto\\CuentasDto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Dto\\CuentasDto.cs",
+              "ToolTip": "D:\\Mi Carp\\AppBalanceG\\Modelo\\Dto\\CuentasDto.cs",
+              "RelativeToolTip": "Modelo\\Dto\\CuentasDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:19:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBalanceG.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Mi Carp\\AppBalanceG\\Vista\\frmBalanceG.cs",
+              "RelativeDocumentMoniker": "Vista\\frmBalanceG.cs",
+              "ToolTip": "D:\\Mi Carp\\AppBalanceG\\Vista\\frmBalanceG.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\frmBalanceG.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:09:30.083Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

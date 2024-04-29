@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadenas_Aerolineas", "Cadenas_Aerolineas\Cadenas_Aerolineas.csproj", "{9F85DB42-9F64-42B1-9E6D-3CB2F11F4621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F85DB42-9F64-42B1-9E6D-3CB2F11F4621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F85DB42-9F64-42B1-9E6D-3CB2F11F4621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F85DB42-9F64-42B1-9E6D-3CB2F11F4621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F85DB42-9F64-42B1-9E6D-3CB2F11F4621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43F05D7-6885-4686-B227-5F188175A427}
+	EndGlobalSection
+EndGlobal

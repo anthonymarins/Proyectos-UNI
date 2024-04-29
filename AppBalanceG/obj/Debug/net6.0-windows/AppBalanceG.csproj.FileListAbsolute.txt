@@ -1,0 +1,94 @@
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmRegistroCuenta.resources
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfo.cs
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.exe
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.deps.json
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.runtimeconfig.json
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\refint\AppBalanceG.dll
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.genruntimeconfig.cache
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\ref\AppBalanceG.dll
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmCuentasT.resources
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmTransacciones.resources
+C:\Users\DELL\Documents\Visual Studio 2022\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmBalanceG.resources
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmBalanceG.resources
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmCuentasT.resources
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmRegistroCuenta.resources
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmTransacciones.resources
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfo.cs
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\refint\AppBalanceG.dll
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\PC\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.exe
+C:\Users\PC\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.deps.json
+C:\Users\PC\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.runtimeconfig.json
+C:\Users\PC\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\PC\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\PC\Desktop\AppBalanceG\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmPrincipal.resources
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.CopyComplete
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.genruntimeconfig.cache
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\ref\AppBalanceG.dll
+C:\Users\PC\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Properties.Resources.resources
+C:\Users\DELL\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.exe
+C:\Users\DELL\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.deps.json
+C:\Users\DELL\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.runtimeconfig.json
+C:\Users\DELL\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\DELL\Desktop\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\DELL\Desktop\AppBalanceG\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Properties.Resources.resources
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmBalanceG.resources
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmCuentasT.resources
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmPrincipal.resources
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmRegistroCuenta.resources
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmTransacciones.resources
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfo.cs
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.CopyComplete
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\refint\AppBalanceG.dll
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.genruntimeconfig.cache
+C:\Users\DELL\Desktop\AppBalanceG\obj\Debug\net6.0-windows\ref\AppBalanceG.dll
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.exe
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.deps.json
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.runtimeconfig.json
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\bin\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Properties.Resources.resources
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmBalanceG.resources
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmCuentasT.resources
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmPrincipal.resources
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmRegistroCuenta.resources
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.Vista.frmTransacciones.resources
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.csproj.CopyComplete
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.dll
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\refint\AppBalanceG.dll
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.pdb
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\AppBalanceG.genruntimeconfig.cache
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\obj\Debug\net6.0-windows\ref\AppBalanceG.dll
+C:\Users\PC\Desktop\ProyectoBG\AppBalanceG\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\AppBalanceG\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
